@@ -18,4 +18,7 @@ installing pip:
 conda install pip
 ```
 
-
+installing jypter lab:
+```bash
+pip install jupyterlab
+```
